@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shabnam1988
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on a big project
-- 📫 How to reach me : 😎
+- 💞️ I’m looking to collaborate on a big project and I'm ready for a new Challenge
+- 📫 How to reach me : 
 
 <!---
 shabnam1988/shabnam1988 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
